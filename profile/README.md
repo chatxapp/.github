@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Replace with your actual logo URL once available -->
-  <img src="https://via.placeholder.com/800x200?text=ChatX+-+Open+Source+Messaging" alt="ChatX Banner" width="100%">
+  <img src="banner-info.png" alt="ChatX Banner" width="100%">
 </p>
 
 <h1 align="center">ChatX</h1>
